@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[FIRST] 第一篇博客</title>
-      <link>http://localhost:1313/posts/first-%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sun, 02 Nov 2025 18:29:28 +0800</pubDate>
-      <guid>http://localhost:1313/posts/first-%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;介绍&#34;&gt;介绍&lt;/h2&gt;
 &lt;p&gt;这里是&lt;a href=&#34;https://github.com/OpenUpace&#34;&gt;&lt;strong&gt;Ai-Upace&lt;/strong&gt;&lt;/a&gt;的博客网站。主要介绍关于&lt;em&gt;操作系统开发&lt;/em&gt;、&lt;em&gt;编译器设计&lt;/em&gt;(刚入门)、&lt;em&gt;嵌入式&lt;/em&gt;与&lt;em&gt;杂谈&lt;/em&gt;等&lt;/p&gt;
 &lt;hr&gt;
